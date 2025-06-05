@@ -1,0 +1,3 @@
+SELECT * FROM cardealership.vehicles
+#WHERE VIN = '000000G00SE000001'
+#WHERE VIN LIKE "1%";
